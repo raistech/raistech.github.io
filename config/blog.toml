@@ -1,10 +1,10 @@
 [[post]]
-category = "Design"
-title = "Design conferences in 2022"
-subtitle = "Veritatis et quasi architecto beatae vitae dicta sunt, explicabo."
-datetime = "2022-02-23"
-image = "./config/assets/posts/blog-1.jpg"
-url = "https://medium.com"
+category = "Tech"
+title = "Using Deepfake Realtime Live Streaming"
+subtitle = "How to Live using Deepfake Using Realtime Camera."
+datetime = "2024-08-12"
+image = "https://docs.arn.my.id/content/images/size/w2000/2024/08/demo1.png"
+url = "https://docs.arn.my.id/how-to-live-using-deepfake-using-realtime-camera/"
 
 [[post]]
 category = "Design"
