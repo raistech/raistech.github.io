@@ -1,19 +1,19 @@
 ############## Education config #################
 #################################################
 [[education]]
-title = "High school of art and design"
-timeline = "2002 — 2004"
+title = "High School"
+timeline = "2009 — 2012"
 description = "Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos."
 
 [[education]]
-title = "New york academy of art"
-timeline = "2006 — 2007"
-description = "Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis.."
+title = "Yogyakarta Muhammadiyah University"
+timeline = "2015 — 2019"
+description = "Management of Economic and Bussines"
 
 [[education]]
-title = "University school of the arts"
-timeline = "2007 — 2008"
-description = "Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur."
+title = "Terbuka University"
+timeline = "2022 — Now"
+description = "Law"
 
 
 ############## Experience config ################
@@ -43,19 +43,19 @@ show_bar = true
 show_value = true
 
 [[skill]]
-title = "Web design"
+title = "Puclic"
 value = "80%"
 
 [[skill]]
-title = "Graphic design"
+title = "Excel"
 value = "70%"
 
 [[skill]]
-title = "Branding"
+title = "Words"
 value = "90%"
 
 [[skill]]
-title = "WordPress"
+title = "Managing"
 value = "50%"
 
 ############## Language config ##################
