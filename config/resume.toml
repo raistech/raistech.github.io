@@ -67,9 +67,9 @@ show_bar = true
 show_value = true
 
 [[language]]
-title = "Ingles"
-value = "60%"
+title = "Bahasa Indonesia"
+value = "90%"
 
 [[language]]
-title = "French"
-value = "50%"
+title = "English"
+value = "70%"
