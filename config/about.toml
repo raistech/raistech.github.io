@@ -1,5 +1,5 @@
 name = "Rais Nugroho"
-rol = "Administration Staff"
+rol = "Administration"
 email = "rais@arn.my.id"
 phone = "+62 816236156"
 birthday = "May 10, 1997"
@@ -8,7 +8,5 @@ avatar = "./config/assets/avatars/arn.png"
 username = "raistech" # <-- github user name
 googlemaps = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63245.97085555591!2d110.33364522980808!3d-7.803248457468688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a5787bd5b6bc5%3A0x21723fd4d3684f71!2sYogyakarta%2C%20Kota%20Yogyakarta%2C%20Daerah%20Istimewa%20Yogyakarta!5e0!3m2!1sid!2sid!4v1723720824093!5m2!1sid!2sid" 
 presentation = """
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+I'm Administration at Alas Kaki Certification Agency, Yogyakarta, working in footwear industry. I enjoy turning complex problems into simple, beautiful and intuitive minds.
 """
